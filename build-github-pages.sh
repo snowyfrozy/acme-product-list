@@ -1,0 +1,1 @@
+ng build --prod --base-href "https://snowyfrozy.github.io/demo-acme-product-list/" angular-cli-ghpages
